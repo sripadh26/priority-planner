@@ -7,7 +7,6 @@ A colorful and interactive to-do list app built from scratch using **HTML**, **C
 ---
 
 ## 🚀 Features
-
 - ✅ Add tasks with a single click
 - 🎯 Mark tasks as complete with a circular checkbox
 - 🧹 Remove tasks from the list
